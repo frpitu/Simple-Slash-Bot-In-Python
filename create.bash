@@ -1,0 +1,2 @@
+mkdir my_discord_bot
+cd my_discord_bot
